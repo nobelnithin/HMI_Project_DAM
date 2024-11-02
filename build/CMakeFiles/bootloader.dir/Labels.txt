@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Nithin/channel/Fenin/HMI_Project/build/CMakeFiles/bootloader
+C:/Nithin/channel/Fenin/HMI_Project/build/CMakeFiles/bootloader.rule
+C:/Nithin/channel/Fenin/HMI_Project/build/CMakeFiles/bootloader-complete.rule
+C:/Nithin/channel/Fenin/HMI_Project/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Nithin/channel/Fenin/HMI_Project/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Nithin/channel/Fenin/HMI_Project/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Nithin/channel/Fenin/HMI_Project/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Nithin/channel/Fenin/HMI_Project/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Nithin/channel/Fenin/HMI_Project/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Nithin/channel/Fenin/HMI_Project/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
